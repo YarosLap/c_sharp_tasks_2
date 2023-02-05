@@ -1,0 +1,15 @@
+/Users/elvis/Desktop/gb/C#/homework2/task10/bin/Debug/net6.0/task10
+/Users/elvis/Desktop/gb/C#/homework2/task10/bin/Debug/net6.0/task10.deps.json
+/Users/elvis/Desktop/gb/C#/homework2/task10/bin/Debug/net6.0/task10.runtimeconfig.json
+/Users/elvis/Desktop/gb/C#/homework2/task10/bin/Debug/net6.0/task10.dll
+/Users/elvis/Desktop/gb/C#/homework2/task10/bin/Debug/net6.0/task10.pdb
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.csproj.AssemblyReference.cache
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.AssemblyInfoInputs.cache
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.AssemblyInfo.cs
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.csproj.CoreCompileInputs.cache
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.dll
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/refint/task10.dll
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.pdb
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/task10.genruntimeconfig.cache
+/Users/elvis/Desktop/gb/C#/homework2/task10/obj/Debug/net6.0/ref/task10.dll

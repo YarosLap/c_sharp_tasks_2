@@ -1,0 +1,15 @@
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/bin/Debug/net6.0/task_dop
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/bin/Debug/net6.0/task_dop.deps.json
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/bin/Debug/net6.0/task_dop.runtimeconfig.json
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/bin/Debug/net6.0/task_dop.dll
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/bin/Debug/net6.0/task_dop.pdb
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.csproj.AssemblyReference.cache
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.AssemblyInfoInputs.cache
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.AssemblyInfo.cs
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.csproj.CoreCompileInputs.cache
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.dll
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/refint/task_dop.dll
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.pdb
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/task_dop.genruntimeconfig.cache
+/Users/elvis/Desktop/gb/C#/homework2/task_dop/obj/Debug/net6.0/ref/task_dop.dll
